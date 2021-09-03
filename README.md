@@ -34,18 +34,9 @@ In the folder `zippedData` are movie datasets from:
 
 ### Results
 
-* 
-* 
-* 
-* Less effects to Gross:
-id                -0.037656
-profit_ratio       0.080536
-runtime_minutes    0.300475
-
-* Most likely effects Gross
-
-production_budget    0.782909
-* /1.png
+* Adventure and Family are good conbination. 
+* Production budget is the most important element for profit.
+* Company should hire Woody Allen as director.
 
 ## Recommendations:
 

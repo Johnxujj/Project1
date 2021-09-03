@@ -45,7 +45,7 @@ runtime_minutes    0.300475
 * Most likely effects Gross
 
 production_budget    0.782909
-* /1
+* /1.png
 
 ## Recommendations:
 

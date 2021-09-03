@@ -1,12 +1,15 @@
 # Phase 1 Project
+##  Suggestion for Entering Movie Industry
+Authors: Jiajie Xu
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+Business problem:
+Is this the good time to start film business?
+What type of movie should we shoot?
+What effects movie worldwide gross most and least?
+Who should we hire to shoot the film?
 
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
-
-## Project Overview
-
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+Data
+Data are getting from Imdb, Rotten Tomatoes and TheMovieDB
 
 ### Business Problem
 
@@ -22,42 +25,35 @@ In the folder `zippedData` are movie datasets from:
 * [TheMovieDB](https://www.themoviedb.org/)
 * [The Numbers](https://www.the-numbers.com/)
 
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
+## Methods
 
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
+* Pandas, numpy
+* mean, Correlation Function
+* plot
 
-## Deliverables
 
-There are three deliverables for this project:
+### Results
 
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
+* 
+* 
+* 
+* Less effects to Gross:
+id                -0.037656
+profit_ratio       0.080536
+runtime_minutes    0.300475
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
+* Most likely effects Gross
 
-### Key Points
+production_budget    0.782909
 
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
+## Recommendations:
 
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
+* After analysis, my team believe this is the best time getting into Film business. ​
 
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
+* We would suggest hiring Woody Allen as director for adventure and family type movie with approximately 125 mins length. 
 
-## Getting Started
 
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
+## Limitations & Next Steps
 
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
+In the future, I would like to analysis relationship between crews, try to find a best corporate team.
 
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
-
-## Project Submission and Review
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!

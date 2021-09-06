@@ -53,5 +53,9 @@ We would suggest：​
 
 ## Limitations & Next Steps
 
-In the future, I would like to analysis relationship between crews, try to find a best corporate team.
+1. With more time, I would like to dig into relationship between crews, try to find a best coroperation team.
+
+2. For advanturr and family movie, we can plot and find which month should be put on the screen.
+
+3. Though movie business drop during pandemic, family online movie web subscribtion incress a lot. We can calculte different company gross increase rate to find whose business model is the best. 
 

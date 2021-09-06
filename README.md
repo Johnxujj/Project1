@@ -44,11 +44,11 @@ After analysis, my team believe this is the best time getting into Film business
 
 We would suggest：​
 
-Hiring Woody Allen as director ​
+1. Hiring Woody Allen as director ​
 
-Adventure and family genre ​
+2. Adventure and family genre ​
 
-Approximately 125 mins length. 
+3. Approximately 125 mins length. 
 
 
 ## Limitations & Next Steps
